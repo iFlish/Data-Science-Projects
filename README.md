@@ -6,7 +6,7 @@
 
 | File Name                                | Description                                      | Date       |
 |------------------------------------------|--------------------------------------------------|------------|
-| `World Population - WebScrapping.ipynb`  | Notebook demonstrating web scraping with BeautifulSoup on Wikipedia's World Population data | 2025-09-25 |
+| `World Population - WebScrapping.ipynb`(https://github.com/iFlish/Data-Science-Projects/blob/main/World%20Population%20-%20WebScrapping.ipynb)  | Notebook demonstrating web scraping with BeautifulSoup on Wikipedia's World Population data | 2025-09-25 |
 
 ---
 
