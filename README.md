@@ -8,6 +8,9 @@
 |-----------|-------------|------|
 | [World Population - WebScrapping.ipynb](https://github.com/iFlish/Data-Science-Projects/blob/main/World%20Population%20-%20WebScrapping.ipynb) | Notebook demonstrating web scraping with BeautifulSoup on Wikipedia's World Population data | 2025-09-25 |
 
+| [Stock_Data_APPLE_AMD.ipynb](https://github.com/iFlish/Data-Science-Projects/blob/main/Stock_Data_APPLE_AMD.ipynb) | Notebook using **Yahoo Finance API (`yfinance`)** to analyze stock data for Apple (AAPL) and AMD. Covers extracting historical data, dividends, plotting price trends, and retrieving company fundamentals from JSON and API calls. | 2025-09-28 |
+
+
 ---
 
 ## 📌 Future Plans
